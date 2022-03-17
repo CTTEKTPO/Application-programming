@@ -1,0 +1,4 @@
+﻿  ConsoleApplication5.cpp
+c:\users\user\source\repos\consoleapplication5\consoleapplication5\consoleapplication5.cpp(49): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+c:\users\user\source\repos\consoleapplication5\consoleapplication5\consoleapplication5.cpp(86): warning C4101: buff: неиспользованная локальная переменная
+  ConsoleApplication5.vcxproj -> C:\Users\User\source\repos\ConsoleApplication5\Debug\ConsoleApplication5.exe
